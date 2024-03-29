@@ -1,0 +1,7 @@
+C:\Users\2022\Desktop\arraymethods\arraymethods\bin\Debug\arraymethods.exe.config
+C:\Users\2022\Desktop\arraymethods\arraymethods\bin\Debug\arraymethods.exe
+C:\Users\2022\Desktop\arraymethods\arraymethods\bin\Debug\arraymethods.pdb
+C:\Users\2022\Desktop\arraymethods\arraymethods\obj\Debug\arraymethods.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\arraymethods\arraymethods\obj\Debug\arraymethods.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\arraymethods\arraymethods\obj\Debug\arraymethods.exe
+C:\Users\2022\Desktop\arraymethods\arraymethods\obj\Debug\arraymethods.pdb

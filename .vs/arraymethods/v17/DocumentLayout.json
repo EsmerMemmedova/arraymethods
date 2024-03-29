@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022\\Desktop\\arraymethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF85AEE-158E-4389-B32D-8C85193AD162}|arraymethods\\arraymethods.csproj|c:\\users\\2022\\desktop\\arraymethods\\arraymethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF85AEE-158E-4389-B32D-8C85193AD162}|arraymethods\\arraymethods.csproj|solutionrelative:arraymethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\arraymethods\\arraymethods\\Program.cs",
+              "RelativeDocumentMoniker": "arraymethods\\Program.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\arraymethods\\arraymethods\\Program.cs",
+              "RelativeToolTip": "arraymethods\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:45:25.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
